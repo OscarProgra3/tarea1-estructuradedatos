@@ -1,0 +1,2 @@
+esta tarea consiste en realizar las operaciones de los TDA lista, pila y cola
+con arreglos y punteros en el lenguaje favorito, en este caso java, utilizando arreglos y nodos
